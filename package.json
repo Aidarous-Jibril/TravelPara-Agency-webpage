@@ -1,8 +1,8 @@
 {
-  "name": "travelpara-agency",
+  "name": "mywebsite",
   "version": "1.0.0",
   "description": "",
-  "main": "sw.js",
+  "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
